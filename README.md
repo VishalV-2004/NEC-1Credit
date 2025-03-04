@@ -9,6 +9,9 @@
 ![Screenshot 2025-03-04 063548](https://github.com/user-attachments/assets/2d2474f9-d2c9-404d-b7ad-d5003b40dc77)
 
 ## 3 Get your friend's docker image and create a compose.yml and add the screenshots and commands here. Pls ensure that you tested the app correctly
+
+![Screenshot 2025-03-03 234434](https://github.com/user-attachments/assets/5ac0d46b-5337-4459-9089-91d806426a69)
+
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
 
 ![Screenshot 2025-03-03 234434](https://github.com/user-attachments/assets/5ac0d46b-5337-4459-9089-91d806426a69)
