@@ -1,1 +1,20 @@
-Update this file to add the content
+services:
+  vishal-api:
+    image: vishalv2004/22it055-personal-api
+    container_name: nec-1credit-vishal-api-1
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "5000:5000"
+    command: python app.py
+
+  anuharshini-api:
+    image: anuharshini24/22it002-personal-api
+    container_name: nec-1credit-anuharshini-api-1
+    working_dir: /app
+    volumes:
+      - .:/app
+    ports:
+      - "5001:5001"  # 🔹 Exposes port 5001
+    command: sh -c "python ml-model.py && sleep infinity"
