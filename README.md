@@ -14,7 +14,7 @@
 
 ## 4 Write Dockerfile for the python file `ml-model.py`. Create image and push to DockerHub `Reg-Number-ml-model(Example: 1214214-ml-model)`
 
-![Screenshot 2025-03-03 234434](https://github.com/user-attachments/assets/5ac0d46b-5337-4459-9089-91d806426a69)
+![Screenshot 2025-03-04 074841](https://github.com/user-attachments/assets/6afdd129-c5f2-45e5-9be1-c51e215e9de7)
 
 ![Screenshot 2025-03-04 072640](https://github.com/user-attachments/assets/5cbccd1f-7302-4dc2-84bc-090e5d974c5c)
 
